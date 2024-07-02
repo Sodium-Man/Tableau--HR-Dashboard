@@ -6460,7 +6460,7 @@ ___________________________________________
                         </zone-style>
                       </zone>
                       <zone h='32500' id='92' name='Education vs Performance' show-title='false' w='22644' x='75427' y='18625'>
-                        <layout-cache cell-count-h='4' non-cell-size-h='20' type-h='cell' type-w='cell' />
+                        <layout-cache cell-count-w='4' non-cell-size-w='104' type-h='cell' type-w='cell' />
                         <zone-style>
                           <format attr='border-color' value='#000000' />
                           <format attr='border-style' value='none' />
@@ -8790,7 +8790,7 @@ ___________________________________________
       <simple-id uuid='{7F890820-0D34-40C1-A14E-E24EA974C8CF}' />
     </dashboard>
   </dashboards>
-  <windows pres-mode='true' source-height='44'>
+  <windows source-height='44'>
     <window class='worksheet' name='BAN Hired'>
       <cards>
         <edge name='left'>
@@ -9370,7 +9370,7 @@ ___________________________________________
           <default-map-tool-selection tool='1' />
         </viewpoint>
       </viewpoints>
-      <active id='237' />
+      <active id='-1' />
       <device-preview selected='Desktop'>
         <device name='iPhone X, XS, 11, 11 Pro' type='Phone' />
       </device-preview>

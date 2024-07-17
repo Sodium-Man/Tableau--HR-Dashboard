@@ -11,7 +11,7 @@ np.random.seed(42)
 random.seed(42)
 
 # Configuration
-num_records = 8950
+num_records = 8900
 
 # States & Cities
 states_cities = {
